@@ -150,4 +150,5 @@ MiniMax is the company; Hailuo is the brand name of its video generation models 
 *This is an independent, community-maintained information repository about MiniMax. It is not affiliated with, endorsed by, or sponsored by MiniMax. All trademarks belong to their respective owners. Corrections welcome via issues.*
 
 
+
 _Last reviewed: 2026-09-22_
